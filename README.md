@@ -6,6 +6,8 @@
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+#Table of Contents
+
 - [Covid-19 Data Project](#covid-19-data-project)
 	- [Order of execution](#order-of-execution)
 	- [Scripts run in numerical order](#scripts-run-in-numerical-order)
