@@ -65,7 +65,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE.md) for more informat
 
 Rob Wiederstein [@RobWiederstein](https://twitter.com/RobWiederstein) - khuon68@gmail.com
 
-Project Link: [https://github.com/Rob/covid-19-ky](https://github.com/RobWiederstein/covid-19-ky)
+Project Link: [https://github.com/RobWiederstein/covid-19-ky](https://github.com/RobWiederstein/covid-19-ky)
 
 
 <!-- ACKNOWLEDGEMENTS -->
