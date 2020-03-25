@@ -5,8 +5,7 @@
 [Interactive map](https://www.robwiederstein.org/blog/2020/3/14/us-corona-virus-cases)
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-#Table of Contents
+# Table of Contents
 
 - [Covid-19 Data Project](#covid-19-data-project)
 	- [Order of execution](#order-of-execution)
