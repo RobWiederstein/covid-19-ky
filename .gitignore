@@ -52,4 +52,4 @@ data_tidy/*.json
 #data output files charts
 figs/*.jpg
 figs/*.png
-fings/*.jpeg
+figs/*.jpeg

@@ -4,7 +4,11 @@
 
 # Covid-19 Data Project
 
-Repository relies upon the data maintained by Johns Hopkins at this [repository](https://github.com/CSSEGISandData/COVID-19). The scripts combine the separately reported confirmations, deaths and recoveries into one file.  Also, the data are converted from wide to long.
+Repository relies upon the data maintained by Johns Hopkins at this [repository](https://github.com/CSSEGISandData/COVID-19). The scripts combine the separately reported confirmations, deaths and recoveries into one file.  The data were converted from wide to long.  NYT original story did not include key aspects--deaths and recoveries-- of the data on the interactive map.  
+
+Additional variables like population density and volume of international air traffic appear to have some role in covid infection rates, leading to disproportionate media coverage in those cities and states.  More rural and isolated states, like Kentucky, must also have rigorous analysis to judge the potential health impacts to their populations.
+
+A bash shell file was included and serves to update the data on the local build to keep the data fresh. The file was run just after the Johns Hopkins data was refreshed using `crontab`.
 
 ## Order of execution
 
@@ -33,7 +37,7 @@ The second [post](https://www.robwiederstein.org/blog/2020/3/20/kentucky-covid-1
 
 ## Installation
 
-Plotly requires registration and an API key. 
+Plotly requires registration and an API key.
 
 <!-- LICENSE -->
 ## License
