@@ -1,3 +1,10 @@
+# Rob Wiederstein
+# .gitignore for R projects
+# github doesn't track empty dirs
+# other templates:  https://github.com/github/gitignore
+#
+
+
 # General
 .DS_Store
 
